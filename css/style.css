@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    background-color: rgb(251, 232, 210);
+    font-family: "Lora", serif;
+}
+
+img{
+  width: 500px;
+  margin-left: 100px;
+  border-radius: 30px;
+}
+.section-center{
+  display: flex;
+  justify-content:center;
+  margin-top: 200px;
+}
+.deadline{
+  display: flex;
+  justify-content: space-around;
+}
+.deadline-format{
+  text-align: center;
+  font-size: 25px;
+  color: rgb(4, 52, 9);
+  padding-right: 30px;
+  
+}
+.gift-info{
+  padding-left: 50px;
+}
+.gift-info p{
+  text-align: center;
+  color: rgb(105, 72, 12);
+  width: 400px;
+  padding-left: 50px;
+}
+.gift-info h3{
+  text-align: center;
+  font-size: 40px;
+  padding-left: 20px;
+}
+
+.giveaway{
+  text-align: center;
+}
